@@ -1,0 +1,1 @@
+# class2workbox-model
